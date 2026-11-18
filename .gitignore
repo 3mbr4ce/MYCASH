@@ -1,0 +1,7 @@
+build/
+dist/
+keys/
+android/build/
+desktop/ui/
+web/suite-apps.js
+*.syso

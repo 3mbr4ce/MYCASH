@@ -1,0 +1,15 @@
+{
+  "version": "1.1",
+  "note": "Zentrale MYSUITE-App-Liste. Alle Apps übernehmen Name, Kürzel, Beschreibung und Status 1:1 von hier.",
+  "apps": [
+    {"name": "MYEP",     "letters": "EP", "paused": false, "description": "Central command for your work: prompt archives, stories and vault."},
+    {"name": "MYSCAN",   "letters": "SC", "paused": false, "description": "Desk scanner that sends documents to MYEP."},
+    {"name": "MYYT",     "letters": "YT", "paused": false, "description": "Watch and control YouTube on PC, phone and TV."},
+    {"name": "MYAI",     "letters": "AI", "paused": false, "description": "Browser extension for Grok, Gemini and ChatGPT."},
+    {"name": "MYCLIP",   "letters": "CL", "paused": false, "description": "Clipboard manager with a floating bubble and history."},
+    {"name": "MYBEATS",  "letters": "BE", "paused": false, "description": "Offline binaural-beat generator."},
+    {"name": "MYLIGHT",  "letters": "LI", "paused": false, "description": "Screen light and LED ticker."},
+    {"name": "MYAI APP", "letters": "AI", "paused": true,  "description": "Standalone MYAI app."},
+    {"name": "myfam",    "letters": "FA", "paused": true,  "description": "Private family heritage archive: members, tree and chronicles."}
+  ]
+}

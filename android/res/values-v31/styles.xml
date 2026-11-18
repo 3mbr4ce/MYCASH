@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 12+ system splash: suite background, icon scaled into the circle (MYSUITE 5a) -->
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#121214</item>
+        <item name="android:colorBackground">#121214</item>
+        <item name="android:statusBarColor">#121214</item>
+        <item name="android:navigationBarColor">#121214</item>
+        <item name="android:colorAccent">#5865F2</item>
+        <item name="android:windowSplashScreenBackground">#121214</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_icon</item>
+    </style>
+</resources>
